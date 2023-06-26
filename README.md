@@ -1,7 +1,7 @@
 # Demo
 
 Some description 
-Git command
+Git command basic
 
 - Clone -> bring a repository that is hosted somewhere to a folder in your local machine
 - add -> track your files and changes in Git
